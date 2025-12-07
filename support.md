@@ -52,9 +52,9 @@ Merci de nous envoyer :
 Envoyer à : citamoove@gmail.com
 
 Informations légales
-Politique de confidentialité : [Lien]
-Conditions d’utilisation : [Lien]
-Nom de l’éditeur : [compléter]
+Politique de confidentialité : https://citamoove.fr/politique-de-confidentialite
+Conditions d’utilisation : https://citamoove.fr/charte-des-conditions-dutilisation
+Nom de l’éditeur : Citamoove
 Adresse : 68 RUE CESARIA EVORA, 75019 PARIS
 
 
