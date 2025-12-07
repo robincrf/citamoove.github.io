@@ -1,8 +1,8 @@
 Politique de Confidentialité
-Dernière mise à jour : 15 décembre 2025
-L’application Citamoove est éditée par [ ?]. La présente Politique de Confidentialité explique comment nous collectons, utilisons et protégeons les données personnelles des utilisateurs, conformément au RGPD et aux lois françaises applicables. L’utilisation de l’application implique votre acceptation de cette politique.
+Dernière mise à jour : 07/12/2025
+L’application Citamoove est éditée par Citamoove. La présente Politique de Confidentialité explique comment nous collectons, utilisons et protégeons les données personnelles des utilisateurs, conformément au RGPD et aux lois françaises applicables. L’utilisation de l’application implique votre acceptation de cette politique.
 1.	Responsable du traitement
-Dhervy Moulangou
+Citamoove
 68 RUE CESARIA EVORA, 75019 PARIS
 Email : citamoove@gmail.com
 2.	Données collectées
