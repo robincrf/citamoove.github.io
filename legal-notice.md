@@ -20,7 +20,7 @@ Firebase (Google LLC)
 Google Maps Platform (Google LLC)
 Collecte et traitement des données personnelles
 Les modalités de collecte, d’utilisation, de conservation et de protection des données personnelles sont détaillées dans la Politique de Confidentialité accessible ici :
-https://citamoove.fr/politique-de-confidentialite
+https://robincrf.github.io/citamoove.github.io/privacy-policy.html
 Propriété intellectuelle
 L’ensemble du contenu, du code, des éléments graphiques, logos et fonctionnalités de l’application et du site sont la propriété exclusive de Citamoove, sauf mention contraire. Toute reproduction, représentation, modification ou exploitation non autorisée est interdite.
 Limitations de responsabilité
